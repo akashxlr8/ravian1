@@ -1,0 +1,101 @@
+User_ID,Age,Gender,Location,Education,Occupation,Primary_App,Secondary_Apps,Usage_Frequency,Daily_Usage_Time,Reason_for_Using,Satisfaction,Challenges,Desired_Features,Preferred_Communication,Partner_Priorities
+1,20,Non-binary,Bangalore,Undergraduate,Freelancer,Hinge,Hinge,Monthly,1 hour,Finding a Partner,4,Safety Concerns,Audio Calls,Video Calls,Values > Personality > Appearance
+2,24,Female,Delhi,Undergraduate,Part-time Job,Hinge,OkCupid,Weekly,30 minutes,Casual Dating,5,Time-Wasting,Video Calls,Text,Values > Personality > Appearance
+3,24,Non-binary,Kolkata,Undergraduate,Intern,NA,None,Weekly,2 hours,Casual Dating,4,Safety Concerns,Detailed Profiles,Text,Values > Personality > Appearance
+4,22,Non-binary,Delhi,Graduate,Full-time Job,NA,OkCupid,Daily,30 minutes,Casual Fun,3,None,AI Recommendations,Voice Notes,Personality > Interests > Values
+5,18,Male,Delhi,Graduate,Intern,OkCupid,OkCupid,Weekly,2 hours,Casual Fun,4,Safety Concerns,Video Calls,Text,Appearance > Interests > Personality
+6,23,Female,Mumbai,Undergraduate,Student,OkCupid,None,Daily,1.5 hours,Casual Dating,2,None,Audio Calls,Video Calls,Values > Personality > Appearance
+7,22,Non-binary,Chennai,Postgraduate,Part-time Job,Tinder,Tinder,Monthly,30 minutes,Finding a Partner,4,Time-Wasting,Audio Calls,Text,Personality > Interests > Values
+8,21,Female,Pune,Postgraduate,Freelancer,Hinge,Tinder,Weekly,1.5 hours,Finding a Partner,2,Safety Concerns,Audio Calls,Video Calls,Values > Personality > Appearance
+9,20,Male,Pune,Postgraduate,Part-time Job,Hinge,OkCupid,Daily,2 hours,Finding a Partner,1,Lack of Genuine Matches,Audio Calls,Text,Values > Personality > Appearance
+10,20,Non-binary,Chennai,Undergraduate,Intern,OkCupid,Bumble,Weekly,3 hours,Finding a Partner,1,Safety Concerns,Location-Based Matching,Video Calls,Values > Personality > Appearance
+11,18,Female,Hyderabad,Postgraduate,Full-time Job,Tinder,Hinge,Daily,1 hour,Social Interaction,1,None,Location-Based Matching,Voice Notes,Appearance > Interests > Personality
+12,21,Male,Delhi,Undergraduate,Part-time Job,NA,None,Monthly,3 hours,Finding a Partner,1,None,Audio Calls,Voice Notes,Appearance > Interests > Personality
+13,22,Male,Bangalore,Undergraduate,Student,Hinge,OkCupid,Monthly,1 hour,Casual Dating,3,Time-Wasting,Video Calls,Video Calls,Personality > Interests > Values
+14,19,Non-binary,Bangalore,Undergraduate,Student,Hinge,Bumble,Daily,2 hours,Social Interaction,1,None,AI Recommendations,Voice Notes,Personality > Interests > Values
+15,22,Non-binary,Chennai,Graduate,Intern,Hinge,None,Daily,1.5 hours,Casual Fun,1,Lack of Genuine Matches,Audio Calls,Voice Notes,Appearance > Interests > Personality
+16,19,Female,Bangalore,Undergraduate,Freelancer,Hinge,OkCupid,Daily,1.5 hours,Casual Dating,5,Time-Wasting,Detailed Profiles,Text,Appearance > Interests > Personality
+17,22,Non-binary,Hyderabad,Graduate,Part-time Job,Bumble,Tinder,Monthly,1 hour,Casual Fun,3,Lack of Genuine Matches,Location-Based Matching,Video Calls,Values > Personality > Appearance
+18,19,Non-binary,Hyderabad,Graduate,Student,OkCupid,OkCupid,Monthly,1 hour,Finding a Partner,3,Safety Concerns,Detailed Profiles,Text,Personality > Interests > Values
+19,24,Male,Hyderabad,Graduate,Intern,NA,Hinge,Daily,30 minutes,Casual Dating,2,Lack of Genuine Matches,AI Recommendations,Video Calls,Personality > Interests > Values
+20,22,Non-binary,Pune,Undergraduate,Student,Hinge,Hinge,Weekly,1.5 hours,Finding a Partner,1,Time-Wasting,Video Calls,Voice Notes,Appearance > Interests > Personality
+21,22,Male,Mumbai,Postgraduate,Freelancer,Hinge,Bumble,Weekly,3 hours,Social Interaction,1,Safety Concerns,AI Recommendations,Video Calls,Values > Personality > Appearance
+22,25,Non-binary,Hyderabad,Undergraduate,Intern,NA,None,Weekly,3 hours,Finding a Partner,5,Lack of Genuine Matches,AI Recommendations,Text,Appearance > Interests > Personality
+23,20,Female,Pune,Graduate,Full-time Job,Hinge,OkCupid,Daily,3 hours,Finding a Partner,4,Safety Concerns,Audio Calls,Video Calls,Appearance > Interests > Personality
+24,18,Male,Delhi,Graduate,Freelancer,Tinder,Bumble,Weekly,2 hours,Casual Dating,5,Time-Wasting,Detailed Profiles,Text,Appearance > Interests > Personality
+25,24,Male,Bangalore,Postgraduate,Full-time Job,NA,Tinder,Daily,2 hours,Social Interaction,3,Time-Wasting,Location-Based Matching,Text,Values > Personality > Appearance
+26,24,Male,Kolkata,Graduate,Full-time Job,Bumble,OkCupid,Weekly,3 hours,Social Interaction,2,Lack of Genuine Matches,Detailed Profiles,Voice Notes,Values > Personality > Appearance
+27,21,Female,Delhi,Undergraduate,Student,Bumble,Tinder,Weekly,3 hours,Casual Dating,5,Lack of Genuine Matches,Location-Based Matching,Video Calls,Appearance > Interests > Personality
+28,23,Male,Kolkata,Undergraduate,Part-time Job,Bumble,None,Weekly,2 hours,Casual Fun,1,Time-Wasting,Location-Based Matching,Voice Notes,Appearance > Interests > Personality
+29,19,Female,Chennai,Undergraduate,Student,OkCupid,OkCupid,Weekly,3 hours,Casual Dating,4,Lack of Genuine Matches,Detailed Profiles,Video Calls,Appearance > Interests > Personality
+30,18,Male,Mumbai,Undergraduate,Freelancer,Tinder,Tinder,Daily,3 hours,Finding a Partner,4,None,Location-Based Matching,Voice Notes,Personality > Interests > Values
+31,24,Non-binary,Bangalore,Graduate,Full-time Job,Hinge,OkCupid,Weekly,30 minutes,Casual Dating,5,None,Audio Calls,Voice Notes,Personality > Interests > Values
+32,20,Male,Bangalore,Graduate,Full-time Job,Hinge,OkCupid,Monthly,1 hour,Finding a Partner,3,Time-Wasting,Detailed Profiles,Voice Notes,Values > Personality > Appearance
+33,24,Female,Delhi,Graduate,Part-time Job,NA,OkCupid,Weekly,30 minutes,Casual Dating,3,Time-Wasting,Detailed Profiles,Text,Personality > Interests > Values
+34,25,Male,Kolkata,Graduate,Full-time Job,NA,Hinge,Weekly,3 hours,Finding a Partner,5,Time-Wasting,Location-Based Matching,Voice Notes,Appearance > Interests > Personality
+35,21,Female,Delhi,Graduate,Full-time Job,Bumble,OkCupid,Daily,2 hours,Casual Dating,3,Safety Concerns,Audio Calls,Voice Notes,Values > Personality > Appearance
+36,22,Non-binary,Mumbai,Postgraduate,Part-time Job,NA,Hinge,Monthly,30 minutes,Finding a Partner,3,Lack of Genuine Matches,AI Recommendations,Text,Appearance > Interests > Personality
+37,22,Female,Kolkata,Undergraduate,Intern,Bumble,None,Monthly,1 hour,Finding a Partner,3,Safety Concerns,Video Calls,Voice Notes,Personality > Interests > Values
+38,20,Female,Mumbai,Undergraduate,Full-time Job,Hinge,Tinder,Daily,1.5 hours,Finding a Partner,1,Lack of Genuine Matches,Audio Calls,Voice Notes,Appearance > Interests > Personality
+39,21,Male,Delhi,Postgraduate,Full-time Job,Bumble,Tinder,Daily,1 hour,Casual Fun,1,Safety Concerns,Location-Based Matching,Voice Notes,Personality > Interests > Values
+40,18,Male,Kolkata,Graduate,Intern,Tinder,Bumble,Weekly,1 hour,Social Interaction,5,None,Audio Calls,Video Calls,Appearance > Interests > Personality
+41,24,Male,Bangalore,Undergraduate,Student,Bumble,Tinder,Daily,1.5 hours,Finding a Partner,3,Time-Wasting,Video Calls,Video Calls,Values > Personality > Appearance
+42,19,Female,Pune,Postgraduate,Part-time Job,NA,Tinder,Weekly,2 hours,Casual Dating,2,Safety Concerns,Detailed Profiles,Voice Notes,Values > Personality > Appearance
+43,19,Female,Bangalore,Graduate,Part-time Job,OkCupid,OkCupid,Weekly,2 hours,Social Interaction,4,None,Location-Based Matching,Voice Notes,Values > Personality > Appearance
+44,23,Female,Delhi,Postgraduate,Freelancer,Tinder,Hinge,Weekly,2 hours,Casual Fun,5,Lack of Genuine Matches,Location-Based Matching,Video Calls,Personality > Interests > Values
+45,21,Male,Delhi,Undergraduate,Student,Tinder,None,Daily,1.5 hours,Casual Dating,2,Lack of Genuine Matches,AI Recommendations,Text,Values > Personality > Appearance
+46,19,Female,Hyderabad,Graduate,Intern,NA,OkCupid,Weekly,2 hours,Casual Dating,5,Safety Concerns,Audio Calls,Video Calls,Values > Personality > Appearance
+47,21,Male,Kolkata,Graduate,Intern,OkCupid,Hinge,Daily,1.5 hours,Finding a Partner,1,None,Video Calls,Video Calls,Values > Personality > Appearance
+48,24,Non-binary,Bangalore,Undergraduate,Full-time Job,Bumble,None,Weekly,2 hours,Finding a Partner,2,Time-Wasting,Location-Based Matching,Voice Notes,Values > Personality > Appearance
+49,21,Male,Bangalore,Postgraduate,Student,OkCupid,None,Weekly,30 minutes,Casual Fun,3,Lack of Genuine Matches,Location-Based Matching,Voice Notes,Appearance > Interests > Personality
+50,19,Male,Kolkata,Postgraduate,Full-time Job,Bumble,None,Weekly,30 minutes,Casual Dating,2,None,AI Recommendations,Voice Notes,Appearance > Interests > Personality
+51,19,Female,Pune,Postgraduate,Freelancer,Bumble,Tinder,Monthly,1 hour,Social Interaction,5,None,Video Calls,Voice Notes,Personality > Interests > Values
+52,25,Non-binary,Delhi,Graduate,Part-time Job,Tinder,OkCupid,Daily,3 hours,Finding a Partner,2,Time-Wasting,Detailed Profiles,Video Calls,Appearance > Interests > Personality
+53,25,Male,Mumbai,Graduate,Full-time Job,Bumble,Tinder,Daily,1.5 hours,Casual Fun,2,Lack of Genuine Matches,Location-Based Matching,Video Calls,Appearance > Interests > Personality
+54,18,Male,Delhi,Postgraduate,Student,Hinge,OkCupid,Weekly,3 hours,Social Interaction,5,Safety Concerns,AI Recommendations,Video Calls,Appearance > Interests > Personality
+55,22,Non-binary,Mumbai,Undergraduate,Freelancer,Hinge,OkCupid,Monthly,3 hours,Finding a Partner,3,None,Location-Based Matching,Voice Notes,Values > Personality > Appearance
+56,20,Non-binary,Mumbai,Undergraduate,Intern,NA,Hinge,Weekly,1.5 hours,Finding a Partner,5,None,Video Calls,Video Calls,Appearance > Interests > Personality
+57,23,Non-binary,Delhi,Postgraduate,Freelancer,Tinder,Bumble,Daily,1.5 hours,Social Interaction,3,None,Location-Based Matching,Video Calls,Values > Personality > Appearance
+58,19,Female,Mumbai,Postgraduate,Student,OkCupid,None,Daily,2 hours,Casual Fun,3,Time-Wasting,Location-Based Matching,Video Calls,Personality > Interests > Values
+59,19,Female,Pune,Postgraduate,Student,OkCupid,Bumble,Daily,3 hours,Casual Fun,5,None,AI Recommendations,Voice Notes,Appearance > Interests > Personality
+60,22,Male,Chennai,Undergraduate,Full-time Job,OkCupid,Bumble,Monthly,3 hours,Social Interaction,1,Time-Wasting,Video Calls,Video Calls,Values > Personality > Appearance
+61,22,Non-binary,Bangalore,Undergraduate,Intern,OkCupid,Hinge,Weekly,30 minutes,Casual Dating,4,Safety Concerns,Detailed Profiles,Video Calls,Values > Personality > Appearance
+62,24,Female,Bangalore,Postgraduate,Freelancer,Tinder,Hinge,Weekly,2 hours,Social Interaction,3,None,AI Recommendations,Text,Personality > Interests > Values
+63,21,Female,Chennai,Graduate,Part-time Job,OkCupid,Tinder,Daily,1.5 hours,Social Interaction,4,Time-Wasting,AI Recommendations,Text,Personality > Interests > Values
+64,20,Female,Delhi,Postgraduate,Intern,NA,OkCupid,Monthly,1 hour,Finding a Partner,5,Time-Wasting,AI Recommendations,Voice Notes,Appearance > Interests > Personality
+65,23,Male,Kolkata,Graduate,Intern,Hinge,Bumble,Weekly,2 hours,Casual Dating,4,Safety Concerns,Audio Calls,Video Calls,Personality > Interests > Values
+66,22,Male,Chennai,Undergraduate,Part-time Job,Bumble,OkCupid,Monthly,1.5 hours,Social Interaction,5,Safety Concerns,Audio Calls,Video Calls,Values > Personality > Appearance
+67,18,Female,Pune,Postgraduate,Intern,NA,Hinge,Daily,2 hours,Casual Fun,2,Safety Concerns,AI Recommendations,Text,Appearance > Interests > Personality
+68,22,Male,Bangalore,Graduate,Full-time Job,OkCupid,None,Daily,1 hour,Finding a Partner,1,None,AI Recommendations,Voice Notes,Appearance > Interests > Personality
+69,24,Female,Delhi,Graduate,Intern,Hinge,Bumble,Monthly,3 hours,Finding a Partner,4,Safety Concerns,Audio Calls,Text,Personality > Interests > Values
+70,18,Male,Hyderabad,Postgraduate,Intern,Bumble,Tinder,Daily,3 hours,Casual Dating,2,Safety Concerns,Detailed Profiles,Text,Appearance > Interests > Personality
+71,19,Male,Bangalore,Postgraduate,Part-time Job,NA,Hinge,Monthly,2 hours,Casual Dating,4,Safety Concerns,Video Calls,Voice Notes,Values > Personality > Appearance
+72,19,Male,Kolkata,Graduate,Intern,Bumble,OkCupid,Daily,2 hours,Casual Fun,1,None,Audio Calls,Text,Personality > Interests > Values
+73,25,Non-binary,Delhi,Postgraduate,Part-time Job,Hinge,Hinge,Daily,3 hours,Finding a Partner,2,Safety Concerns,Audio Calls,Video Calls,Values > Personality > Appearance
+74,25,Female,Bangalore,Graduate,Student,NA,OkCupid,Weekly,3 hours,Finding a Partner,4,None,Video Calls,Video Calls,Appearance > Interests > Personality
+75,19,Female,Chennai,Undergraduate,Intern,OkCupid,None,Daily,30 minutes,Finding a Partner,2,Lack of Genuine Matches,AI Recommendations,Text,Personality > Interests > Values
+76,22,Male,Chennai,Undergraduate,Full-time Job,Tinder,Hinge,Monthly,30 minutes,Finding a Partner,3,Lack of Genuine Matches,Location-Based Matching,Video Calls,Values > Personality > Appearance
+77,23,Male,Mumbai,Postgraduate,Part-time Job,NA,Bumble,Weekly,1.5 hours,Casual Fun,4,Lack of Genuine Matches,Location-Based Matching,Voice Notes,Appearance > Interests > Personality
+78,25,Non-binary,Delhi,Postgraduate,Full-time Job,Hinge,None,Daily,1.5 hours,Casual Fun,1,Lack of Genuine Matches,Detailed Profiles,Text,Appearance > Interests > Personality
+79,23,Female,Pune,Postgraduate,Student,OkCupid,Bumble,Monthly,1 hour,Casual Dating,5,Safety Concerns,Audio Calls,Voice Notes,Appearance > Interests > Personality
+80,24,Male,Bangalore,Postgraduate,Freelancer,Hinge,Bumble,Monthly,30 minutes,Social Interaction,5,Time-Wasting,AI Recommendations,Text,Values > Personality > Appearance
+81,18,Female,Delhi,Undergraduate,Freelancer,NA,OkCupid,Monthly,1 hour,Casual Fun,1,None,Detailed Profiles,Video Calls,Appearance > Interests > Personality
+82,18,Male,Chennai,Graduate,Freelancer,OkCupid,Bumble,Daily,1 hour,Social Interaction,2,Safety Concerns,Audio Calls,Voice Notes,Appearance > Interests > Personality
+83,18,Male,Mumbai,Undergraduate,Intern,OkCupid,Bumble,Daily,2 hours,Social Interaction,1,Safety Concerns,Detailed Profiles,Text,Appearance > Interests > Personality
+84,22,Non-binary,Hyderabad,Postgraduate,Part-time Job,Hinge,Tinder,Weekly,1.5 hours,Finding a Partner,1,Time-Wasting,Detailed Profiles,Video Calls,Appearance > Interests > Personality
+85,18,Non-binary,Pune,Undergraduate,Intern,Bumble,Tinder,Weekly,2 hours,Social Interaction,1,Time-Wasting,Detailed Profiles,Video Calls,Appearance > Interests > Personality
+86,20,Female,Delhi,Postgraduate,Student,Hinge,None,Monthly,1 hour,Social Interaction,5,Time-Wasting,Detailed Profiles,Voice Notes,Values > Personality > Appearance
+87,21,Non-binary,Pune,Graduate,Freelancer,Bumble,Hinge,Monthly,3 hours,Casual Dating,5,Time-Wasting,Audio Calls,Voice Notes,Values > Personality > Appearance
+88,23,Male,Delhi,Graduate,Intern,NA,None,Daily,1 hour,Social Interaction,2,Time-Wasting,Detailed Profiles,Voice Notes,Appearance > Interests > Personality
+89,22,Non-binary,Hyderabad,Postgraduate,Full-time Job,Tinder,Hinge,Daily,3 hours,Finding a Partner,2,Lack of Genuine Matches,Location-Based Matching,Video Calls,Appearance > Interests > Personality
+90,24,Male,Hyderabad,Graduate,Full-time Job,OkCupid,Hinge,Weekly,3 hours,Casual Fun,5,None,AI Recommendations,Video Calls,Personality > Interests > Values
+91,18,Female,Mumbai,Postgraduate,Intern,Tinder,OkCupid,Daily,2 hours,Social Interaction,4,Time-Wasting,AI Recommendations,Voice Notes,Appearance > Interests > Personality
+92,21,Male,Hyderabad,Undergraduate,Full-time Job,Hinge,Tinder,Monthly,2 hours,Finding a Partner,1,Time-Wasting,AI Recommendations,Voice Notes,Values > Personality > Appearance
+93,22,Non-binary,Pune,Graduate,Full-time Job,Tinder,OkCupid,Weekly,30 minutes,Casual Dating,2,Lack of Genuine Matches,Video Calls,Voice Notes,Values > Personality > Appearance
+94,21,Non-binary,Chennai,Graduate,Part-time Job,OkCupid,Tinder,Monthly,3 hours,Casual Dating,3,None,Detailed Profiles,Text,Values > Personality > Appearance
+95,23,Female,Mumbai,Undergraduate,Full-time Job,OkCupid,None,Monthly,3 hours,Social Interaction,2,Time-Wasting,Detailed Profiles,Video Calls,Appearance > Interests > Personality
+96,20,Female,Delhi,Postgraduate,Student,OkCupid,Tinder,Daily,2 hours,Finding a Partner,4,Time-Wasting,Video Calls,Voice Notes,Personality > Interests > Values
+97,23,Female,Delhi,Undergraduate,Part-time Job,Hinge,Bumble,Daily,1.5 hours,Finding a Partner,5,Time-Wasting,Video Calls,Voice Notes,Values > Personality > Appearance
+98,22,Male,Chennai,Graduate,Part-time Job,OkCupid,None,Daily,30 minutes,Finding a Partner,1,Lack of Genuine Matches,Location-Based Matching,Video Calls,Personality > Interests > Values
+99,20,Male,Kolkata,Undergraduate,Freelancer,OkCupid,Hinge,Daily,1.5 hours,Casual Dating,2,None,Detailed Profiles,Voice Notes,Personality > Interests > Values
+100,20,Male,Hyderabad,Graduate,Part-time Job,OkCupid,OkCupid,Weekly,3 hours,Finding a Partner,3,Lack of Genuine Matches,Location-Based Matching,Video Calls,Personality > Interests > Values

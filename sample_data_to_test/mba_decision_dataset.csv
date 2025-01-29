@@ -1,0 +1,200 @@
+Person ID,Age,Gender,Undergraduate Major,Undergraduate GPA,Years of Work Experience,Current Job Title,Annual Salary (Before MBA),Has Management Experience,GRE/GMAT Score,Undergrad University Ranking,Entrepreneurial Interest,Networking Importance,MBA Funding Source,Desired Post-MBA Role,Expected Post-MBA Salary,Location Preference (Post-MBA),Reason for MBA,Online vs. On-Campus MBA,Decided to Pursue MBA?
+1,27,Male,Arts,3.18,8,Entrepreneur,90624,No,688,185,7.9,7.6,Loan,Finance Manager,156165,International,Entrepreneurship,On-Campus,Yes
+2,24,Male,Arts,3.03,4,Analyst,53576,Yes,791,405,3.8,4.1,Loan,Startup Founder,165612,International,Career Growth,Online,No
+3,33,Female,Business,3.66,9,Engineer,79796,No,430,107,6.7,5.5,Scholarship,Consultant,122248,Domestic,Skill Enhancement,Online,No
+4,31,Male,Engineering,2.46,1,Manager,105956,No,356,257,1,5.3,Loan,Consultant,123797,International,Entrepreneurship,On-Campus,No
+5,28,Female,Business,2.75,9,Entrepreneur,96132,No,472,338,9.5,4.9,Loan,Consultant,197509,Domestic,Skill Enhancement,Online,Yes
+6,33,Male,Business,3.58,3,Manager,101925,No,409,280,3.4,7.1,Scholarship,Marketing Director,99591,International,Networking,On-Campus,No
+7,25,Female,Arts,3.06,5,Consultant,81962,No,369,158,9.2,8.3,Self-funded,Executive,119223,International,Networking,Online,No
+8,27,Male,Engineering,2.8,6,Engineer,100072,Yes,588,190,2.9,9.6,Loan,Finance Manager,199447,International,Entrepreneurship,On-Campus,Yes
+9,30,Female,Arts,2.06,6,Entrepreneur,118689,Yes,521,455,9.1,4.7,Scholarship,Executive,76037,Domestic,Career Growth,On-Campus,Yes
+10,23,Female,Arts,3.51,3,Entrepreneur,112387,No,671,411,6,7.3,Scholarship,Startup Founder,92294,International,Entrepreneurship,Online,Yes
+11,27,Male,Arts,3.94,9,Analyst,39156,No,652,436,2.6,6.1,Employer,Executive,119126,Domestic,Networking,On-Campus,No
+12,31,Other,Arts,3.24,9,Manager,72597,No,749,283,3.9,2.6,Loan,Finance Manager,69698,International,Entrepreneurship,On-Campus,Yes
+13,31,Male,Economics,3.71,4,Entrepreneur,81938,No,482,323,8.5,3.7,Employer,Consultant,159371,Domestic,Entrepreneurship,On-Campus,No
+14,28,Female,Science,3.03,3,Manager,114728,No,440,117,9.6,8.6,Employer,Consultant,97889,Domestic,Entrepreneurship,Online,Yes
+15,25,Female,Engineering,2.46,9,Consultant,84941,No,676,208,8.9,8.3,Employer,Marketing Director,190224,Domestic,Skill Enhancement,Online,Yes
+16,24,Male,Economics,2.03,5,Analyst,62979,No,748,4,8.8,8.7,Self-funded,Marketing Director,173363,Domestic,Networking,On-Campus,Yes
+17,28,Male,Science,3.31,6,Consultant,110931,No,466,429,1,1.4,Employer,Marketing Director,193921,Domestic,Networking,Online,Yes
+18,28,Male,Science,2.99,1,Analyst,90655,Yes,601,185,5,9.9,Loan,Finance Manager,180546,Domestic,Career Growth,On-Campus,No
+19,23,Male,Science,3.56,9,Analyst,53915,Yes,538,384,8.5,6,Scholarship,Marketing Director,82471,Domestic,Skill Enhancement,Online,Yes
+20,26,Male,Economics,3.39,2,Manager,87774,No,298,385,1.3,5.6,Scholarship,Marketing Director,147362,International,Career Growth,Online,Yes
+21,25,Male,Engineering,3.98,7,Analyst,33258,Yes,428,225,7.2,7.6,Scholarship,Executive,72714,Domestic,Career Growth,Online,Yes
+22,22,Male,Business,3.02,6,Consultant,112179,No,785,44,5.5,2.2,Scholarship,Executive,166538,Domestic,Skill Enhancement,Online,Yes
+23,28,Female,Science,2.85,0,Consultant,64522,No,526,109,8.1,3.1,Scholarship,Executive,137619,International,Skill Enhancement,Online,No
+24,32,Male,Business,2.57,3,Consultant,73357,No,659,346,3.3,9.5,Scholarship,Marketing Director,65370,Domestic,Career Growth,On-Campus,No
+25,34,Male,Business,2.95,4,Manager,92146,Yes,396,359,8.9,2.9,Employer,Marketing Director,104662,International,Skill Enhancement,Online,No
+26,26,Female,Arts,3.75,2,Manager,95581,No,710,195,3.7,4,Scholarship,Startup Founder,87905,Domestic,Entrepreneurship,Online,No
+27,22,Male,Business,2.08,3,Engineer,54538,No,313,4,9.6,3.2,Loan,Marketing Director,122034,International,Entrepreneurship,On-Campus,No
+28,32,Male,Arts,3.96,9,Entrepreneur,64723,No,614,417,6.8,5.4,Employer,Marketing Director,85873,International,Skill Enhancement,Online,Yes
+29,25,Male,Engineering,3.99,9,Engineer,32274,No,729,434,2.8,8.2,Employer,Marketing Director,144660,Domestic,Entrepreneurship,On-Campus,No
+30,21,Female,Engineering,3.2,9,Engineer,37735,No,666,133,8,8.5,Self-funded,Executive,96946,Domestic,Career Growth,On-Campus,No
+31,32,Female,Arts,2.66,6,Analyst,31739,No,793,381,5.8,3.9,Employer,Marketing Director,154959,Domestic,Skill Enhancement,Online,No
+32,30,Male,Engineering,2.45,7,Analyst,117586,No,750,221,4.7,1.7,Self-funded,Executive,119391,International,Skill Enhancement,Online,Yes
+33,26,Female,Science,2.55,8,Engineer,110849,Yes,693,308,5.2,2,Self-funded,Executive,177546,Domestic,Networking,On-Campus,No
+34,33,Female,Engineering,2.1,1,Entrepreneur,43549,No,636,11,4.6,8.3,Scholarship,Finance Manager,140714,International,Skill Enhancement,Online,Yes
+35,32,Female,Arts,2.95,3,Engineer,108948,No,256,131,7.4,4.9,Self-funded,Marketing Director,163083,Domestic,Networking,On-Campus,Yes
+36,29,Female,Science,2.11,0,Manager,61510,No,438,274,3.3,8.4,Scholarship,Executive,114106,Domestic,Networking,On-Campus,Yes
+37,21,Female,Business,3.44,2,Consultant,112253,Yes,503,286,5.6,1.1,Employer,Executive,196140,Domestic,Entrepreneurship,On-Campus,Yes
+38,31,Male,Business,2.74,7,Engineer,97066,No,769,465,7.8,1.3,Loan,Executive,120725,International,Skill Enhancement,Online,Yes
+39,31,Male,Business,2.4,6,Analyst,30555,Yes,760,174,2.3,3.8,Loan,Marketing Director,166030,International,Skill Enhancement,On-Campus,Yes
+40,30,Male,Arts,3.09,7,Entrepreneur,56624,No,471,222,3.6,2.8,Scholarship,Startup Founder,136291,Domestic,Entrepreneurship,Online,No
+41,32,Female,Business,3.95,5,Analyst,50417,No,696,94,2.9,6.8,Self-funded,Marketing Director,183695,International,Entrepreneurship,On-Campus,No
+42,32,Female,Engineering,3.39,4,Manager,113083,No,665,481,6.1,6.3,Scholarship,Marketing Director,128025,International,Career Growth,On-Campus,No
+43,34,Female,Business,2.98,9,Analyst,101564,No,477,145,4.7,9,Scholarship,Startup Founder,72613,Domestic,Networking,On-Campus,Yes
+44,34,Other,Economics,3.55,8,Analyst,75978,Yes,530,167,3.9,8.1,Employer,Marketing Director,188208,Domestic,Entrepreneurship,On-Campus,Yes
+45,34,Male,Economics,3.47,4,Entrepreneur,62498,Yes,787,80,4.2,1.9,Scholarship,Finance Manager,152764,International,Networking,On-Campus,No
+46,23,Female,Business,3.78,8,Entrepreneur,81172,No,257,289,5.2,9,Loan,Finance Manager,78468,International,Skill Enhancement,Online,Yes
+47,32,Female,Business,2.41,3,Analyst,70453,No,446,367,4.8,2.1,Employer,Marketing Director,98133,Domestic,Networking,Online,Yes
+48,27,Other,Economics,3.72,4,Analyst,36023,No,396,450,7.4,2.8,Employer,Finance Manager,134882,Domestic,Networking,Online,No
+49,24,Other,Business,2.6,0,Engineer,119364,Yes,736,66,7.2,5.5,Self-funded,Executive,89770,International,Skill Enhancement,Online,No
+50,29,Female,Science,3.88,5,Manager,81092,No,447,472,1.2,2,Employer,Consultant,136348,International,Career Growth,Online,No
+51,23,Male,Economics,2.56,2,Engineer,83548,Yes,496,133,7.4,3,Loan,Marketing Director,168859,Domestic,Entrepreneurship,Online,No
+52,25,Female,Arts,3.85,9,Entrepreneur,92533,Yes,436,164,3,5,Self-funded,Startup Founder,123415,International,Networking,On-Campus,Yes
+53,23,Male,Economics,3.93,1,Engineer,37016,No,382,259,4.8,3.2,Loan,Executive,97109,International,Career Growth,On-Campus,No
+54,27,Female,Engineering,2.29,5,Engineer,88554,No,408,360,3,9.5,Scholarship,Startup Founder,80499,Domestic,Entrepreneurship,Online,No
+55,25,Female,Science,3.95,0,Analyst,83405,Yes,646,160,2.1,2.5,Self-funded,Startup Founder,192401,International,Career Growth,Online,Yes
+56,29,Male,Arts,2.17,8,Analyst,39546,Yes,367,142,6.3,6.2,Employer,Consultant,128880,Domestic,Career Growth,Online,Yes
+57,27,Female,Business,2.44,4,Manager,68793,No,634,378,9.6,5.5,Employer,Finance Manager,67776,Domestic,Networking,Online,No
+58,22,Male,Engineering,2.89,6,Consultant,70344,Yes,381,422,4.3,5.1,Loan,Startup Founder,65814,International,Career Growth,Online,Yes
+59,24,Male,Engineering,3.99,9,Consultant,102143,Yes,623,247,7.1,3.1,Loan,Marketing Director,192258,International,Career Growth,Online,No
+60,29,Male,Science,2.98,8,Engineer,56706,No,653,491,5.1,2.7,Self-funded,Marketing Director,107755,International,Skill Enhancement,Online,Yes
+61,32,Female,Arts,3.1,8,Manager,70521,Yes,598,133,2.6,3.7,Loan,Executive,110849,International,Networking,Online,Yes
+62,34,Female,Engineering,3.39,6,Manager,53406,No,281,485,9.3,6.3,Scholarship,Executive,133094,Domestic,Networking,Online,No
+63,22,Female,Arts,3.94,3,Entrepreneur,66035,No,346,174,5,6.2,Loan,Startup Founder,137232,Domestic,Entrepreneurship,On-Campus,Yes
+64,30,Male,Arts,3.57,3,Analyst,44542,Yes,588,474,1.1,8,Employer,Consultant,188759,Domestic,Entrepreneurship,On-Campus,No
+65,29,Female,Engineering,2.45,6,Entrepreneur,100790,No,636,184,5.1,3.7,Scholarship,Finance Manager,89214,Domestic,Skill Enhancement,Online,Yes
+66,30,Female,Arts,2.61,7,Consultant,99739,Yes,434,465,1.1,7.4,Self-funded,Consultant,124906,International,Networking,Online,No
+67,25,Male,Science,2.2,6,Manager,68658,Yes,433,316,8.1,8.9,Self-funded,Consultant,121106,International,Skill Enhancement,Online,Yes
+68,22,Male,Engineering,3.29,9,Consultant,42452,No,300,83,4.3,8.7,Scholarship,Executive,73063,Domestic,Networking,Online,No
+69,24,Male,Science,2.36,3,Analyst,52681,No,251,75,6.5,5.2,Employer,Finance Manager,60638,International,Skill Enhancement,Online,No
+70,32,Female,Science,2.51,3,Analyst,50826,No,326,263,7.9,7,Self-funded,Startup Founder,72292,International,Skill Enhancement,Online,No
+71,32,Female,Arts,3.78,7,Analyst,47432,Yes,728,397,1.2,8.5,Self-funded,Consultant,125581,Domestic,Networking,On-Campus,Yes
+72,27,Female,Arts,2.65,8,Consultant,48343,No,711,115,5.7,2.4,Loan,Startup Founder,106510,International,Skill Enhancement,Online,Yes
+73,32,Male,Engineering,3.13,6,Manager,82850,No,648,153,6.7,9.6,Employer,Executive,101864,Domestic,Entrepreneurship,On-Campus,Yes
+74,33,Female,Business,2.8,2,Entrepreneur,84827,No,288,498,5.2,6.4,Loan,Startup Founder,108454,International,Skill Enhancement,On-Campus,Yes
+75,28,Male,Engineering,2.15,9,Manager,70659,No,795,112,3.8,3.5,Scholarship,Marketing Director,185373,International,Career Growth,Online,No
+76,23,Male,Science,2.73,0,Manager,94237,No,500,140,5.2,5.7,Employer,Finance Manager,104198,Domestic,Career Growth,On-Campus,Yes
+77,34,Female,Arts,2.82,4,Engineer,77841,No,315,31,4.5,7.6,Self-funded,Consultant,65161,International,Career Growth,Online,No
+78,21,Male,Science,3.79,5,Manager,72201,No,678,220,6.5,8.4,Loan,Executive,133405,Domestic,Career Growth,Online,Yes
+79,24,Female,Economics,2.65,8,Entrepreneur,50314,No,602,271,5.2,3.8,Scholarship,Startup Founder,151555,Domestic,Networking,Online,No
+80,22,Male,Economics,2.76,4,Engineer,84517,No,632,97,2.2,4.1,Employer,Executive,111746,International,Skill Enhancement,On-Campus,No
+81,28,Female,Science,3.57,0,Manager,77416,No,276,11,1.8,8.4,Self-funded,Marketing Director,176129,Domestic,Entrepreneurship,Online,No
+82,24,Male,Business,3.52,3,Engineer,104603,Yes,316,103,2.5,8.6,Loan,Executive,151288,International,Skill Enhancement,Online,Yes
+83,22,Female,Business,3.6,1,Manager,41912,No,749,416,1.6,7.2,Scholarship,Finance Manager,147654,International,Networking,Online,Yes
+84,34,Male,Engineering,3.91,3,Analyst,109637,No,661,464,3.3,7.2,Self-funded,Finance Manager,142419,International,Entrepreneurship,On-Campus,Yes
+85,26,Male,Engineering,3.59,6,Analyst,85755,Yes,619,265,1.6,3.3,Employer,Finance Manager,162146,International,Entrepreneurship,Online,Yes
+86,26,Female,Engineering,2.82,8,Manager,45941,Yes,685,52,6.4,9.6,Scholarship,Marketing Director,190372,Domestic,Career Growth,Online,Yes
+87,30,Male,Arts,3.64,2,Engineer,84938,Yes,310,169,5,8.7,Self-funded,Finance Manager,106980,Domestic,Career Growth,Online,Yes
+88,24,Female,Business,3.02,2,Entrepreneur,44591,No,299,140,3.3,8.8,Scholarship,Marketing Director,89201,Domestic,Networking,Online,Yes
+89,26,Other,Science,2.56,3,Analyst,58281,No,774,83,1.1,2.8,Loan,Consultant,122117,Domestic,Networking,Online,Yes
+90,33,Male,Economics,2.61,6,Engineer,41730,Yes,445,462,2.3,9.9,Scholarship,Marketing Director,171803,Domestic,Entrepreneurship,Online,Yes
+91,22,Male,Business,2.45,5,Entrepreneur,39011,Yes,619,268,7,5,Self-funded,Startup Founder,157273,Domestic,Entrepreneurship,On-Campus,Yes
+92,30,Female,Business,2.29,4,Engineer,66677,No,524,448,3.2,7.1,Self-funded,Finance Manager,71983,International,Skill Enhancement,On-Campus,Yes
+93,32,Other,Business,2.37,3,Manager,92969,No,465,344,4,9.1,Employer,Executive,176575,Domestic,Skill Enhancement,Online,No
+94,22,Female,Engineering,2.13,7,Analyst,74976,Yes,541,73,1.7,1.9,Employer,Marketing Director,146540,International,Networking,On-Campus,Yes
+95,30,Female,Arts,3.78,3,Analyst,97420,No,575,469,5.9,3.9,Employer,Consultant,174242,Domestic,Networking,On-Campus,No
+96,34,Female,Science,3.86,2,Analyst,100038,No,774,140,8.2,4.3,Scholarship,Startup Founder,124413,International,Career Growth,On-Campus,No
+97,24,Male,Engineering,3.17,6,Manager,58564,No,785,109,4.2,8,Loan,Consultant,91714,Domestic,Skill Enhancement,On-Campus,No
+98,34,Other,Arts,3.68,1,Entrepreneur,37497,No,423,37,2,3.7,Employer,Consultant,123172,Domestic,Skill Enhancement,Online,No
+99,28,Other,Business,2.37,3,Entrepreneur,38298,Yes,679,133,9.6,4.5,Self-funded,Startup Founder,125586,Domestic,Career Growth,Online,No
+100,34,Male,Arts,3.8,7,Analyst,40887,No,284,9,5.6,4.4,Scholarship,Finance Manager,65290,Domestic,Career Growth,On-Campus,No
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
