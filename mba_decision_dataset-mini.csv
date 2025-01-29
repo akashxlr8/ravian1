@@ -1,0 +1,10 @@
+Person ID,Age,Gender,Undergraduate Major,Undergraduate GPA,Years of Work Experience,Current Job Title,Annual Salary (Before MBA),Has Management Experience,GRE/GMAT Score,Undergrad University Ranking,Entrepreneurial Interest,Networking Importance,MBA Funding Source,Desired Post-MBA Role,Expected Post-MBA Salary,Location Preference (Post-MBA),Reason for MBA,Online vs. On-Campus MBA,Decided to Pursue MBA?
+1,27,Male,Arts,3.18,8,Entrepreneur,90624,No,688,185,7.9,7.6,Loan,Finance Manager,156165,International,Entrepreneurship,On-Campus,Yes
+2,24,Male,Arts,3.03,4,Analyst,53576,Yes,791,405,3.8,4.1,Loan,Startup Founder,165612,International,Career Growth,Online,No
+3,33,Female,Business,3.66,9,Engineer,79796,No,430,107,6.7,5.5,Scholarship,Consultant,122248,Domestic,Skill Enhancement,Online,No
+4,31,Male,Engineering,2.46,1,Manager,105956,No,356,257,1,5.3,Loan,Consultant,123797,International,Entrepreneurship,On-Campus,No
+5,28,Female,Business,2.75,9,Entrepreneur,96132,No,472,338,9.5,4.9,Loan,Consultant,197509,Domestic,Skill Enhancement,Online,Yes
+6,33,Male,Business,3.58,3,Manager,101925,No,409,280,3.4,7.1,Scholarship,Marketing Director,99591,International,Networking,On-Campus,No
+7,25,Female,Arts,3.06,5,Consultant,81962,No,369,158,9.2,8.3,Self-funded,Executive,119223,International,Networking,Online,No
+8,27,Male,Engineering,2.8,6,Engineer,100072,Yes,588,190,2.9,9.6,Loan,Finance Manager,199447,International,Entrepreneurship,On-Campus,Yes
+9,30,Female,Arts,2.06,6,Entrepreneur,118689,Yes,521,455,9.1,4.7,Scholarship,Executive,76037,Domestic,Career Growth,On-Campus,Yes
