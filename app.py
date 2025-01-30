@@ -167,6 +167,7 @@ async def create_visualization(user_input):
     return task_result.messages[-1].content
 
 app = Dash(__name__)
+server = app.server
 
 app.layout = html.Div([
     html.H1("Data Visualization", style={'textAlign': 'center', 'margin': '20px'}),
