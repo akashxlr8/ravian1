@@ -1,0 +1,6 @@
+dash
+dash_ag_grid==31.3.0
+autogen_ext==0.4.3
+pandas==2.2.3
+autogen_agentchat==0.4.3
+statsmodels==0.14.4
