@@ -8,3 +8,4 @@ loguru
 python-dotenv
 plotly
 tiktoken
+openai==1.60.2
