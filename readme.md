@@ -1,3 +1,15 @@
+<div>
+    <a href="https://www.loom.com/share/494994222adc43a2a7af320b343811fc">
+      <p>Dash - Google Chrome - 31 January 2025 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/494994222adc43a2a7af320b343811fc">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/494994222adc43a2a7af320b343811fc-c2e0732dfd1cf141-full-play.gif">
+    </a>
+  </div>
+
+
+
+
 # Data Visualization Dash Application
 
 This project is a Dash application that allows users to upload CSV files and generate visualizations using Plotly Express. The application utilizes an AI agent to assist in creating visualizations based on user input.
